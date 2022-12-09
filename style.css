@@ -1,0 +1,23 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    font-family: 'Gloria Hallelujah', cursive;
+    color: cornflowerblue;
+}
+.note
+{
+    color: antiquewhite;
+}
+.song_name
+{
+    color: white;
+}
+canvas{
+    border-color: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px aquamarine;
+    margin-top: 160px;
+  }
